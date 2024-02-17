@@ -10,4 +10,4 @@ public class EmployeeManageApplication {
 		SpringApplication.run(EmployeeManageApplication.class, args);
 	}
 
-}
+}   
